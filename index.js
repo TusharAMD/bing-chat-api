@@ -1,4 +1,5 @@
-import { BingChat } from 'bing-chat'
+//import { BingChat } from 'bing-chat'
+import { BingChat } from './custombingchat.js'
 import express from 'express';
 import bodyParser from 'body-parser';
 
